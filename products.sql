@@ -1,8 +1,8 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
+-- port: 26257
+-- Host: sanjaykumar-3869.7s5.aws-ap-south-1.cockroachlabs.cloud
 -- Generation Time: Feb 13, 2024 at 06:33 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.0.30
